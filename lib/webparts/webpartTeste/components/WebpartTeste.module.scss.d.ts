@@ -1,0 +1,37 @@
+declare const styles: {
+    'carousel-prev': string;
+    'carousel-next': string;
+    container: string;
+    modal: string;
+    close: string;
+    contentModal: string;
+    categoriaModal: string;
+    imagemModal: string;
+    contentArquivo: string;
+    title: string;
+    info: string;
+    sinopose: string;
+    idiomas: string;
+    botao: string;
+    img: string;
+    busca: string;
+    filtro: string;
+    botaoFiltro: string;
+    containerInferior: string;
+    menuLateral: string;
+    menu: string;
+    bibliotecacompartilhada: string;
+    categoria: string;
+    lermaistarde: string;
+    favoritos: string;
+    buscaavancada: string;
+    minhabiblioteca: string;
+    inicio: string;
+    duvidas: string;
+    arquivos: string;
+    topico: string;
+    arquivoContent: string;
+    titulo: string;
+};
+export default styles;
+//# sourceMappingURL=WebpartTeste.module.scss.d.ts.map
